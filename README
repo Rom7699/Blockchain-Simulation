@@ -1,6 +1,16 @@
-YUVAL YARDEN - 318763455
-ROM EISENBERG - 207811472
-TOMER COHEN - 206840704
+# MTAMiner
 
-NOTE - Please delete miner_count.txt before each run (execpt the first).
-DOCKER USERNAME - yuvalyar12
+MTAMiner is a project designed to run on an Ubuntu-based Docker container.
+
+## Prerequisites
+
+- Docker
+
+## Getting Started
+
+### Building the Docker Image
+
+To build the Docker image, run the following command in the project directory:
+
+```sh
+docker build -t mtaminer -f miner/Dockerfile.miner .
