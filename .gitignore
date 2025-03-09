@@ -26,6 +26,3 @@ Thumbs.db
 
 # Ignore compiled shared objects
 *.so
-
-# Ignore executable files
-miner
