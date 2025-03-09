@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /Users/Rom/Desktop/MTA_Coin Select CMakeLists.txt
