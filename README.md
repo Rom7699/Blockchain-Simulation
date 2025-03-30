@@ -1,6 +1,6 @@
 # MTACoin Miner-Server System
 
-A simplified blockchain simulation that implements a multi-process miner-server system written in C++. This educational project demonstrates blockchain fundamentals, focusing on inter-process communication, block mining, and validation.
+A simplified blockchain simulation that implements a multi-process miner-server system written in C. This educational project demonstrates blockchain fundamentals, focusing on inter-process communication, block mining, and validation.
 
 ## Overview
 
